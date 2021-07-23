@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(255, 0, 0);
+}
+
+/* * {
+    border: solid;
+} */
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: initial ;
+}
